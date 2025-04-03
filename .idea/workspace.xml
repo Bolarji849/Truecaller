@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7326ee1c-a254-4d72-8eec-25793f2838a5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;iam-fabulous&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Bolarji849/Truecaller.git&quot;,
+    &quot;accountId&quot;: &quot;d615e4fe-9af9-4fff-b4d5-c59df9c4deb6&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2unp2nHw0cJj7rWZ9JQzZnsiGXT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;HTTP Request.generated-requests | #25.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #28.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ContactServiceImpTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ContactServiceImpTest.testThatAllContactCanBeGotten.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ContactServiceImpTest.testThatContactCanBeDeleted.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ContactServiceImpTest.testThatContactCanBeEdited_OrUpdated.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ContactServiceImpTest.testThatContactCanBeFoundByFirstNameOrLastName.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ContactServiceImpTest.testThatContactCanBeSaved.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ContactServiceImpTest.testThatContactCanBeUpdated.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ContactServiceImpTest.testThatYouCanBlockContact.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ContactServiceImpTest.testThatYouCanFindContactByPhoneNumber.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ContactServiceImpTest.testThatYouCanUnblockContact.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceImlTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceImlTest.testUserCanLogin.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceImlTest.testUserCanRegister.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.Main.executor&quot;: &quot;Run&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/DELL/OneDrive/Desktop/TrueCallerApp/src/test/java/com/byteBuilders/TrueCaller/services&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL/OneDrive/Desktop/TrueCallerApp/src/test&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/DELL/OneDrive/Desktop/TrueCallerApp/src/main/java/com/byteBuilders/TrueCaller/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\OneDrive\Desktop\TrueCallerApp\src\test" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.byteBuilders.TrueCaller.services" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Main">
+    <configuration name="generated-requests | #28" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="28" requestIdentifier="#28" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="ContactServiceImpTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TrueCallerApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.byteBuilders.TrueCaller.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.byteBuilders.TrueCaller.services" />
+      <option name="MAIN_CLASS_NAME" value="com.byteBuilders.TrueCaller.services.ContactServiceImpTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactServiceImpTest.testThatContactCanBeDeleted" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TrueCallerApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.byteBuilders.TrueCaller.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.byteBuilders.TrueCaller.services" />
+      <option name="MAIN_CLASS_NAME" value="com.byteBuilders.TrueCaller.services.ContactServiceImpTest" />
+      <option name="METHOD_NAME" value="testThatContactCanBeDeleted" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceImlTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TrueCallerApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.byteBuilders.TrueCaller.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.byteBuilders.TrueCaller.services" />
+      <option name="MAIN_CLASS_NAME" value="com.byteBuilders.TrueCaller.services.UserServiceImlTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="TrueCallerApp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.byteBuilders.TrueCaller.Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.byteBuilders.TrueCaller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Main" />
+        <item itemvalue="JUnit.ContactServiceImpTest" />
+        <item itemvalue="JUnit.ContactServiceImpTest.testThatContactCanBeDeleted" />
+        <item itemvalue="HTTP Request.generated-requests | #28" />
+        <item itemvalue="JUnit.UserServiceImlTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.24807.4" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.24807.4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7326ee1c-a254-4d72-8eec-25793f2838a5" name="Changes" comment="" />
+      <created>1742893991323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742893991323</updated>
+      <workItem from="1742893992383" duration="16222000" />
+      <workItem from="1743009601098" duration="3459000" />
+      <workItem from="1743042330558" duration="350000" />
+      <workItem from="1743059975780" duration="13523000" />
+      <workItem from="1743073666174" duration="10574000" />
+      <workItem from="1743192310207" duration="11557000" />
+      <workItem from="1743206002610" duration="1098000" />
+      <workItem from="1743257857609" duration="2162000" />
+      <workItem from="1743310136652" duration="12261000" />
+      <workItem from="1743375946938" duration="44036000" />
+      <workItem from="1743520782751" duration="6251000" />
+      <workItem from="1743651532009" duration="6783000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
